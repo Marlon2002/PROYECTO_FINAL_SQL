@@ -1,0 +1,16 @@
+﻿  PROYECTO FINAL PROGRA 1.cpp
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(966,47): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1198,50): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1228,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1171,25): warning C4101: 'r': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1420,9): warning C4101: 'idm': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1593,10): warning C4101: 'existe': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1591,9): warning C4101: 'idcd': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1591,15): warning C4101: 'id_c': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\PROYECTO FINAL PROGRA 1.cpp(1823,9): warning C4101: 'idproveedor': variable local sin referencia
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Cliente.h(301): warning C4715: 'Cliente::asignardatos': no todas las rutas de acceso de control devuelven un valor
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Venta.h(327): warning C4715: 'Venta::asignardatos': no todas las rutas de acceso de control devuelven un valor
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Producto.h(379): warning C4715: 'Producto::returnPV': no todas las rutas de acceso de control devuelven un valor
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Compra.h(185): warning C4715: 'Compra::ExisteCompra': no todas las rutas de acceso de control devuelven un valor
+C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\PROYECTO FINAL PROGRA 1\Compra_Detalle.h(183): warning C4715: 'Compra_Detalle::ExisteComp_det': no todas las rutas de acceso de control devuelven un valor
+  PROYECTO FINAL PROGRA 1.vcxproj -> C:\Users\HP\Downloads\PROYECTO-FINAL-PROGRA1-main\x64\Debug\PROYECTO FINAL PROGRA 1.exe
